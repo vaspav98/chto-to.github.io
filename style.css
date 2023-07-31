@@ -67,6 +67,10 @@ tr td:last-child {
 tr td:hover {
   background: #364c63;
 }
+
+tr td:active {
+  background: #0f1627;
+}
 /* END */
 
 .small {
